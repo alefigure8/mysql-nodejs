@@ -1,0 +1,111 @@
+    * {
+        font-family: 'Oswald', sans-serif;
+        margin: 0;
+        padding: 0;
+        font-size: 16px;
+    }
+    
+    body {
+        background-image: url('../img/abstract_low_poly_banner_design_1602.jpg');
+        background-size: cover;
+        background-position: center center;
+        background-attachment: fixed;
+    }
+    
+    .bg-custom {
+        background-image: linear-gradient(to right, #ec77ab 0%, #7873f5 100%);
+    }
+    
+    .card-size {
+        width: 250px;
+        min-height: 200px;
+        background-color: hsl(0, 0%, 99%);
+    }
+    
+    .navbar-brand {
+        font-family: 'Bebas Neue', cursive;
+        font-size: 1.6rem;
+    }
+    
+    .logo {
+        background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);
+        vertical-align: middle;
+    }
+    
+    .fas {
+        font-size: 1.1rem;
+    }
+    
+    .bg-custom-form {
+        background-color: hsl(222, 98%, 80%);
+        color: hsl(0, 0%, 95%);
+        text-transform: uppercase;
+    }
+    
+    .index {
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+        background-image: url('../img/993724.jpg');
+    }
+    
+    .masthead {
+        height: 100vh;
+    }
+    
+    .title {
+        font-size: 5rem;
+    }
+    
+    .description {
+        font-size: 2rem;
+    }
+    
+    .tech-icon {
+        font-size: 2.5rem;
+        color: hsla(180, 100%, 97%, 0.808);
+        padding: .5rem;
+    }
+    
+    .manin-desc {
+        font-size: 1.2rem;
+        margin-top: 2rem;
+    }
+    
+    .btn-main {
+        font-size: 1.8rem;
+        background-color: hsl(242, 87%, 71%);
+    }
+    
+    .btn-main:hover {
+        background-color: hsl(242, 87%, 65%);
+    }
+    
+    .img-container img {
+        width: 80%;
+        height: 80%;
+    }
+    
+    .btn-pink {
+        background-color: hsl(242, 87%, 71%);
+    }
+    
+    .btn-pink:hover {
+        background-color: hsl(242, 87%, 65%);
+    }
+    
+    .btn-purple {
+        background-color: hsl(326, 100%, 62%);
+    }
+    
+    .btn-purple:hover {
+        background-color: hsl(326, 100%, 70%);
+    }
+    
+    .footer-main {
+        margin-top: 1rem;
+    }
+    
+    .main-content {
+        margin-top: 1rem;
+    }
